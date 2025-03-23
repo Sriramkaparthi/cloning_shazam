@@ -18,7 +18,7 @@ Fast Retrieval: Utilizes cosine similarity and FAISS/ChromaDB for quick document
 
 **Dataset**
 
-The dataset required for this project is available on Google Drive:https://acesse.one/B7hrk
+The dataset required for this project is available on Google Drive:https://drive.google.com/drive/folders/1VHE1c76nNbcbmKRt4qgZJSzx2nCY48HB?usp=drive_link
 
 **Usage**
 
